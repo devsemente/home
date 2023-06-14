@@ -17,8 +17,9 @@ Ajudar as pessoas a conseguir bons empregos. Bons empregos são os que atendem, 
 ## Como
 
 Há muito conteúdo sobre TI na Internet. Pode ser muito difícil encontrar o que você precisa aprender, especialmente para um iniciante.   
-Além disso, o mercado de TI pode ser confuso, com vários tipos de entrevistas de emprego e desafios tecnológicos, ofertas de emprego peculiares e a possibilidade de trabalhar em qualquer lugar.   
-Procuramos agrupar um pouco do excelente conteúdo que já está on-line no que chamamos de Trilhas.<br>
+Além disso, o mercado de TI pode ser confuso, com vários tipos de entrevistas de emprego e desafios tecnológicos, ofertas de emprego peculiares e a possibilidade de trabalhar em qualquer lugar.
+
+Procuramos agrupar um pouco do excelente conteúdo que já está on-line no que chamamos de Trilhas.
 Cada trilha é um conjunto de conteúdos diversos, sempre gratuitos (embora em alguns casos possa haver alguma sugestão de conteúdo pago) sobre um tema, de gestão de carreira a programação.    
 Um conjunto de Trilhas forma uma Jornada. A ideia é que, ao terminar uma Jornada, uma pessoa esteja pronta para tentar uma vaga como Júnior em uma posição de TI.    
 
