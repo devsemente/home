@@ -1,29 +1,39 @@
-# Semente Project
+# Semente 
 
-Welcome to the Semente project home page. 
+Bem-vindo à página inicial do Semente. 
 
-The Semente project aims to assist individuals in finding good jobs in the field of Information Technology (IT), with a focus on (but not exclusive to) people from Brazil.
+O projeto Semente tem o objetivo de ajudar as pessoas a encontrar bons empregos na área de Tecnologia da Informação (TI), com foco (mas não exclusivamente) em pessoas do Brasil.
 
-## Project Goal
+## Objetivo
 
-The primary goal of the project is to ensure that individuals secure good jobs by fulfilling the following criteria:
+Ajudar as pessoas a conseguir bons empregos. Bons empregos são os que atendem, no mínimo, aos seguintes critérios:
 
-1. **Financial Stability**: A good job should provide a salary that allows individuals to meet their essential living necessities, including rent, food, schooling, and other essential expenses. Additionally, it should enable them to pursue leisure activities and have a satisfactory quality of life.
+1. **Estabilidade financeira**: Oferece um salário que permita ao indivíduos atender às suas necessidades essenciais de vida, incluindo aluguel, alimentação, educação e outras despesas essenciais. Além disso, ele deve permitir que as pessoas realizem atividades de lazer e tenham uma qualidade de vida satisfatória.
 
-2. **Suitable Work Environment**: A good job should offer a work environment that is conducive to the well-being and productivity of each individual. This includes factors such as a supportive and inclusive atmosphere, work-life balance, and a positive workplace culture.
+2. **Ambiente de trabalho adequado** Oferece um ambiente de trabalho que favoreça o bem-estar e a produtividade de cada indivíduo. Isso inclui fatores como uma atmosfera de apoio e inclusão, equilíbrio entre vida pessoal e profissional e uma cultura positiva no local de trabalho.
 
-3. **Growth and Learning Opportunities**: A good job should provide ample opportunities for personal and professional growth. It should meet the expectations of individuals by offering continuous learning, skill development, and career advancement prospects.
+3. **Oportunidades de crescimento e aprendizado**: Oferece oportunidades de crescimento pessoal e profissional. Ele deve atender às expectativas dos indivíduos, oferecendo aprendizado contínuo, desenvolvimento de habilidades e perspectivas de avanço na carreira.
 
-## Contributing
+## Como
 
-Update with contributing guidelines.
+Há muito conteúdo sobre TI na Internet. Pode ser muito difícil encontrar o que você precisa aprender, especialmente para um iniciante. 
+Além disso, o mercado de TI pode ser confuso, com vários tipos de entrevistas de emprego e desafios tecnológicos, ofertas de emprego peculiares e a possibilidade de trabalhar em qualquer lugar.
+Procuramos agrupar um pouco do excelente conteúdo que já está on-line no que chamamos de Trilhas. 
+Cada trilha é um conjunto de conteúdos diversos, sempre gratuitos (embora em alguns casos possa haver alguma sugestão de conteúdo pago) sobre um tema, de gestão de carreira a programação.
+Um conjunto de Trilhas forma uma Jornada. A ideia é que, ao terminar uma Jornada, uma pessoa esteja pronta para tentar uma vaga como Júnior em uma posição de TI.
 
-## License
+## COMECE AQUI
 
-This project is licensed under the [Creative Commons License](LICENSE). Please review the license file for more information on the permissions and limitations it entails.
+## Contribuição
 
-## Contact
+Atualize com as diretrizes de contribuição.
 
-If you have any questions, suggestions, or would like to get in touch with the project team, please feel free to [contact us](mailto:devsemente.com) at devsemente@gmail.com
+## Licença
 
-We appreciate your interest in the Semente project and thank you for visiting our page!
+Este projeto está licenciado sob a [Licença Creative Commons] (LICENSE). Consulte o arquivo de licença para obter mais informações sobre as permissões e limitações que ele implica.
+
+## Contato
+
+Se tiver alguma dúvida, sugestão ou quiser entrar em contato com a equipe do projeto, sinta-se à vontade para [entrar em contato conosco](mailto:devsemente.com) em devsemente@gmail.com
+
+Agradecemos o seu interesse no projeto Semente e a sua visita à nossa página!
