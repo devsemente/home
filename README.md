@@ -2,7 +2,7 @@
 
 Bem-vindo à página inicial do Semente. 
 
-O projeto Semente tem o objetivo de ajudar as pessoas a encontrar bons empregos na área de Tecnologia da Informação (TI), com foco (mas não exclusivamente) em pessoas do Brasil.
+O projeto Semente tem o objetivo de ajudar pessoas a encontrar bons empregos na área de Tecnologia da Informação (TI), com foco (mas não exclusivamente) em pessoas do Brasil.
 
 ## Objetivo
 
@@ -16,13 +16,16 @@ Ajudar as pessoas a conseguir bons empregos. Bons empregos são os que atendem, 
 
 ## Como
 
-Há muito conteúdo sobre TI na Internet. Pode ser muito difícil encontrar o que você precisa aprender, especialmente para um iniciante. 
-Além disso, o mercado de TI pode ser confuso, com vários tipos de entrevistas de emprego e desafios tecnológicos, ofertas de emprego peculiares e a possibilidade de trabalhar em qualquer lugar.
-Procuramos agrupar um pouco do excelente conteúdo que já está on-line no que chamamos de Trilhas. 
-Cada trilha é um conjunto de conteúdos diversos, sempre gratuitos (embora em alguns casos possa haver alguma sugestão de conteúdo pago) sobre um tema, de gestão de carreira a programação.
-Um conjunto de Trilhas forma uma Jornada. A ideia é que, ao terminar uma Jornada, uma pessoa esteja pronta para tentar uma vaga como Júnior em uma posição de TI.
+Há muito conteúdo sobre TI na Internet. Pode ser muito difícil encontrar o que você precisa aprender, especialmente para um iniciante.   
+Além disso, o mercado de TI pode ser confuso, com vários tipos de entrevistas de emprego e desafios tecnológicos, ofertas de emprego peculiares e a possibilidade de trabalhar em qualquer lugar.   
+Procuramos agrupar um pouco do excelente conteúdo que já está on-line no que chamamos de Trilhas.    
+Cada trilha é um conjunto de conteúdos diversos, sempre gratuitos (embora em alguns casos possa haver alguma sugestão de conteúdo pago) sobre um tema, de gestão de carreira a programação.    
+Um conjunto de Trilhas forma uma Jornada. A ideia é que, ao terminar uma Jornada, uma pessoa esteja pronta para tentar uma vaga como Júnior em uma posição de TI.    
 
 ## COMECE AQUI
+
+## Perguntas frequentes
+Você pode ver nossas perguntas frequentes clicando no menu lateral, na opção Perguntas Frequentes, ou clicando aqui.
 
 ## Contribuição
 
